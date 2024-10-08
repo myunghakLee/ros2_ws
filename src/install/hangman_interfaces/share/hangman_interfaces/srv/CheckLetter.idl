@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from hangman_interfaces/srv/CheckLetter.srv
+// generated code does not contain a copyright notice
+
+
+module hangman_interfaces {
+  module srv {
+    @verbatim (language="comment", text=
+      "Empty request")
+    struct CheckLetter_Request {
+      uint8 structure_needs_at_least_one_member;
+    };
+    struct CheckLetter_Response {
+      string updated_word_state;
+
+      boolean is_correct;
+
+      string message;
+    };
+  };
+};

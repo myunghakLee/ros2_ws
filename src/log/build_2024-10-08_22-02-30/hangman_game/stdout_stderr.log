@@ -1,0 +1,51 @@
+running egg_info
+creating ../build/hangman_game/hangman_game.egg-info
+writing ../build/hangman_game/hangman_game.egg-info/PKG-INFO
+writing dependency_links to ../build/hangman_game/hangman_game.egg-info/dependency_links.txt
+writing entry points to ../build/hangman_game/hangman_game.egg-info/entry_points.txt
+writing requirements to ../build/hangman_game/hangman_game.egg-info/requires.txt
+writing top-level names to ../build/hangman_game/hangman_game.egg-info/top_level.txt
+writing manifest file '../build/hangman_game/hangman_game.egg-info/SOURCES.txt'
+reading manifest file '../build/hangman_game/hangman_game.egg-info/SOURCES.txt'
+writing manifest file '../build/hangman_game/hangman_game.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/user/ros2_ws/src/build/hangman_game/build
+creating /home/user/ros2_ws/src/build/hangman_game/build/lib
+creating /home/user/ros2_ws/src/build/hangman_game/build/lib/hangman_game
+copying hangman_game/word_service.py -> /home/user/ros2_ws/src/build/hangman_game/build/lib/hangman_game
+copying hangman_game/progress_action_client.py -> /home/user/ros2_ws/src/build/hangman_game/build/lib/hangman_game
+copying hangman_game/user_input.py -> /home/user/ros2_ws/src/build/hangman_game/build/lib/hangman_game
+copying hangman_game/progress_action_server.py -> /home/user/ros2_ws/src/build/hangman_game/build/lib/hangman_game
+copying hangman_game/__init__.py -> /home/user/ros2_ws/src/build/hangman_game/build/lib/hangman_game
+copying hangman_game/letter_publisher.py -> /home/user/ros2_ws/src/build/hangman_game/build/lib/hangman_game
+running install
+running install_lib
+creating /home/user/ros2_ws/src/install/hangman_game/lib/python3.10/site-packages/hangman_game
+copying /home/user/ros2_ws/src/build/hangman_game/build/lib/hangman_game/word_service.py -> /home/user/ros2_ws/src/install/hangman_game/lib/python3.10/site-packages/hangman_game
+copying /home/user/ros2_ws/src/build/hangman_game/build/lib/hangman_game/progress_action_client.py -> /home/user/ros2_ws/src/install/hangman_game/lib/python3.10/site-packages/hangman_game
+copying /home/user/ros2_ws/src/build/hangman_game/build/lib/hangman_game/user_input.py -> /home/user/ros2_ws/src/install/hangman_game/lib/python3.10/site-packages/hangman_game
+copying /home/user/ros2_ws/src/build/hangman_game/build/lib/hangman_game/progress_action_server.py -> /home/user/ros2_ws/src/install/hangman_game/lib/python3.10/site-packages/hangman_game
+copying /home/user/ros2_ws/src/build/hangman_game/build/lib/hangman_game/__init__.py -> /home/user/ros2_ws/src/install/hangman_game/lib/python3.10/site-packages/hangman_game
+copying /home/user/ros2_ws/src/build/hangman_game/build/lib/hangman_game/letter_publisher.py -> /home/user/ros2_ws/src/install/hangman_game/lib/python3.10/site-packages/hangman_game
+byte-compiling /home/user/ros2_ws/src/install/hangman_game/lib/python3.10/site-packages/hangman_game/word_service.py to word_service.cpython-310.pyc
+byte-compiling /home/user/ros2_ws/src/install/hangman_game/lib/python3.10/site-packages/hangman_game/progress_action_client.py to progress_action_client.cpython-310.pyc
+byte-compiling /home/user/ros2_ws/src/install/hangman_game/lib/python3.10/site-packages/hangman_game/user_input.py to user_input.cpython-310.pyc
+byte-compiling /home/user/ros2_ws/src/install/hangman_game/lib/python3.10/site-packages/hangman_game/progress_action_server.py to progress_action_server.cpython-310.pyc
+byte-compiling /home/user/ros2_ws/src/install/hangman_game/lib/python3.10/site-packages/hangman_game/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/user/ros2_ws/src/install/hangman_game/lib/python3.10/site-packages/hangman_game/letter_publisher.py to letter_publisher.cpython-310.pyc
+running install_data
+creating /home/user/ros2_ws/src/install/hangman_game/share/ament_index
+creating /home/user/ros2_ws/src/install/hangman_game/share/ament_index/resource_index
+creating /home/user/ros2_ws/src/install/hangman_game/share/ament_index/resource_index/packages
+copying resource/hangman_game -> /home/user/ros2_ws/src/install/hangman_game/share/ament_index/resource_index/packages
+copying package.xml -> /home/user/ros2_ws/src/install/hangman_game/share/hangman_game
+running install_egg_info
+Copying ../build/hangman_game/hangman_game.egg-info to /home/user/ros2_ws/src/install/hangman_game/lib/python3.10/site-packages/hangman_game-0.0.0-py3.10.egg-info
+running install_scripts
+Installing letter_publisher script to /home/user/ros2_ws/src/install/hangman_game/lib/hangman_game
+Installing progress_action_client script to /home/user/ros2_ws/src/install/hangman_game/lib/hangman_game
+Installing progress_action_server script to /home/user/ros2_ws/src/install/hangman_game/lib/hangman_game
+Installing user_input script to /home/user/ros2_ws/src/install/hangman_game/lib/hangman_game
+Installing word_service script to /home/user/ros2_ws/src/install/hangman_game/lib/hangman_game
+writing list of installed files to '/home/user/ros2_ws/src/build/hangman_game/install.log'

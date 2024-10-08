@@ -1,0 +1,27 @@
+[0.353s] Invoking command in '/home/user/ros2_ws/src/hangman_game': LD_LIBRARY_PATH=/home/user/ros2_ws/install/hangman_interfaces/lib:/home/user/robot_ws/install/msg_srv_action_interface_example/lib:/home/user/turtlebot3_ws/install/turtlebot3_msgs/lib:/home/user/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/lib:/home/user/turtlebot3_ws/install/dynamixel_sdk/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/share/gazebo/../../lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/user/ros2_ws/build/hangman_game/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/hangman_game/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/hangman_game build --build-base /home/user/ros2_ws/build/hangman_game/build install --record /home/user/ros2_ws/build/hangman_game/install.log --single-version-externally-managed install_data
+[0.484s] running egg_info
+[0.484s] writing ../../build/hangman_game/hangman_game.egg-info/PKG-INFO
+[0.484s] writing dependency_links to ../../build/hangman_game/hangman_game.egg-info/dependency_links.txt
+[0.485s] writing entry points to ../../build/hangman_game/hangman_game.egg-info/entry_points.txt
+[0.485s] writing requirements to ../../build/hangman_game/hangman_game.egg-info/requires.txt
+[0.485s] writing top-level names to ../../build/hangman_game/hangman_game.egg-info/top_level.txt
+[0.486s] reading manifest file '../../build/hangman_game/hangman_game.egg-info/SOURCES.txt'
+[0.486s] writing manifest file '../../build/hangman_game/hangman_game.egg-info/SOURCES.txt'
+[0.486s] running build
+[0.486s] running build_py
+[0.486s] copying hangman_game/progress_action.py -> /home/user/ros2_ws/build/hangman_game/build/lib/hangman_game
+[0.486s] running install
+[0.486s] running install_lib
+[0.487s] copying /home/user/ros2_ws/build/hangman_game/build/lib/hangman_game/progress_action.py -> /home/user/ros2_ws/install/hangman_game/lib/python3.10/site-packages/hangman_game
+[0.487s] byte-compiling /home/user/ros2_ws/install/hangman_game/lib/python3.10/site-packages/hangman_game/progress_action.py to progress_action.cpython-310.pyc
+[0.488s] running install_data
+[0.488s] running install_egg_info
+[0.489s] removing '/home/user/ros2_ws/install/hangman_game/lib/python3.10/site-packages/hangman_game-0.0.0-py3.10.egg-info' (and everything under it)
+[0.490s] Copying ../../build/hangman_game/hangman_game.egg-info to /home/user/ros2_ws/install/hangman_game/lib/python3.10/site-packages/hangman_game-0.0.0-py3.10.egg-info
+[0.490s] running install_scripts
+[0.504s] Installing letter_publisher script to /home/user/ros2_ws/install/hangman_game/lib/hangman_game
+[0.504s] Installing progress_action script to /home/user/ros2_ws/install/hangman_game/lib/hangman_game
+[0.504s] Installing user_input script to /home/user/ros2_ws/install/hangman_game/lib/hangman_game
+[0.504s] Installing word_service script to /home/user/ros2_ws/install/hangman_game/lib/hangman_game
+[0.504s] writing list of installed files to '/home/user/ros2_ws/build/hangman_game/install.log'
+[0.519s] Invoked command in '/home/user/ros2_ws/src/hangman_game' returned '0': LD_LIBRARY_PATH=/home/user/ros2_ws/install/hangman_interfaces/lib:/home/user/robot_ws/install/msg_srv_action_interface_example/lib:/home/user/turtlebot3_ws/install/turtlebot3_msgs/lib:/home/user/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/lib:/home/user/turtlebot3_ws/install/dynamixel_sdk/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/share/gazebo/../../lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/user/ros2_ws/build/hangman_game/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/ros2_ws/install/hangman_game/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/hangman_game build --build-base /home/user/ros2_ws/build/hangman_game/build install --record /home/user/ros2_ws/build/hangman_game/install.log --single-version-externally-managed install_data

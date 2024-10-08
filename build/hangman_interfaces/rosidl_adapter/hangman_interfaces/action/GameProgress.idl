@@ -1,0 +1,27 @@
+// generated from rosidl_adapter/resource/action.idl.em
+// with input from hangman_interfaces/action/GameProgress.action
+// generated code does not contain a copyright notice
+
+
+module hangman_interfaces {
+  module action {
+    @verbatim (language="comment", text=
+      "Goal" "\n"
+      "Empty since the client doesn't need to send any data")
+    struct GameProgress_Goal {
+      uint8 structure_needs_at_least_one_member;
+    };
+    @verbatim (language="comment", text=
+      "Result")
+    struct GameProgress_Result {
+      boolean game_over;
+
+      boolean won;
+    };
+    @verbatim (language="comment", text=
+      "Feedback")
+    struct GameProgress_Feedback {
+      boolean game_over;
+    };
+  };
+};

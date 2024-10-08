@@ -1,0 +1,6 @@
+source;share/hangman_game/hook/pythonpath.ps1
+source;share/hangman_game/hook/pythonpath.dsv
+source;share/hangman_game/hook/pythonpath.sh
+source;share/hangman_game/hook/ament_prefix_path.ps1
+source;share/hangman_game/hook/ament_prefix_path.dsv
+source;share/hangman_game/hook/ament_prefix_path.sh

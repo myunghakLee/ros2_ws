@@ -1,0 +1,4 @@
+source;share/hangman_interfaces/local_setup.bash
+source;share/hangman_interfaces/local_setup.dsv
+source;share/hangman_interfaces/local_setup.sh
+source;share/hangman_interfaces/local_setup.zsh

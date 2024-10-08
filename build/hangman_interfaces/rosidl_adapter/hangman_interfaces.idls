@@ -1,0 +1,3 @@
+/home/user/ros2_ws/build/hangman_interfaces/rosidl_adapter/hangman_interfaces:msg/Progress.idl
+/home/user/ros2_ws/build/hangman_interfaces/rosidl_adapter/hangman_interfaces:srv/CheckLetter.idl
+/home/user/ros2_ws/build/hangman_interfaces/rosidl_adapter/hangman_interfaces:action/GameProgress.idl

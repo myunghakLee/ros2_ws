@@ -1,0 +1,7 @@
+[console_scripts]
+letter_publisher = hangman_game.letter_publisher:main
+progress_action_client = hangman_game.progress_action_client:main
+progress_action_server = hangman_game.progress_action_server:main
+user_input = hangman_game.user_input:main
+word_service = hangman_game.word_service:main
+
